@@ -1,0 +1,135 @@
+.wd-background-bookmark {
+    background-color: black;
+    padding-left: 16px;
+    padding-top: 12px;
+}
+
+.wd-bookmark {
+    color: white;
+    font-size: 20px;
+    border-left: 1px lightgray solid;
+    border-right: 1px lightgray solid;
+    border-color: RGB(110, 118, 125);
+}
+
+.wd-webdev {
+    color: lightgray;
+    font-size: 13px;
+    border-left: 1px lightgray solid;
+    border-right: 1px lightgray solid;
+    border-bottom: 1px lightgray solid;
+    border-color: RGB(110, 118, 125);
+}
+
+.wd-bookmark-pfp {
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+    padding-top: 12px;
+}
+
+
+
+.wd-bookmark-user {
+    color: white;
+    font-size: 15px;
+    margin: 3px;
+    display: inline;
+}
+
+.wd-bookmark-date {
+    color: RGB(110, 118, 125);
+    font-size: 15px;
+    display: inline;
+}
+
+.wd-bookmark-content {
+    color: white;
+    font-size: 15px;
+    margin: 3px;
+    font-weight: bold;
+    padding-bottom: 12px;
+    max-width: 506px;
+}
+
+.wd-bookmark-top-right {
+    position: absolute;
+    left: 76px;
+    top: 70px;
+}
+
+.wd-bookmark-main-content-img {
+    position: absolute;
+    left: 76px;
+    top: 202px;
+    width: 504px;
+    height: 264px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.wd-bookmark-main-content-text-top {
+    color: white;
+    position: absolute;
+    left: 76px;
+    top: 474px;
+    border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: RGB(110, 118, 125);
+    max-width: 506px;
+    padding-right: 141px;
+}
+
+.wd-bookmark-main-content-text-bot {
+    color: RGB(110, 118, 125);
+    border-width: 0px 1px 1px 1px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-color: RGB(110, 118, 125);
+    border-style: solid;
+    position: absolute;
+    left: 76px;
+    top: 491px;
+    padding-bottom: 5px;
+    max-width: 506px;
+}
+
+.wd-bookmark-button-1 {
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 76px;
+    top: 545px;
+    display: inline;
+}
+
+.wd-bookmark-button-2 {
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 196px;
+    top: 545px;
+    display: inline;
+}
+
+.wd-bookmark-button-3 {
+    color: red;
+    font-size: 12px;
+    position: absolute;
+    left: 316px;
+    top: 545px;
+    display: inline;
+}
+
+
+.wd-bookmark-button-4 {
+    color: white;
+    font-size: 12px;
+    position: absolute;
+    left: 436px;
+    top: 545px;
+    display: inline;
+}
+
+
+
