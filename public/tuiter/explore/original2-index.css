@@ -15,7 +15,7 @@
 }
 
 .wd-author {
-    color: white;
+    color: black;
     font-size: 13px;
     margin: 3px;
     display: inline;
@@ -24,13 +24,6 @@
 
 .wd-post-gray {
     color: RGB(110, 118, 125);
-    font-size: 13px;
-    display: inline;
-    margin: 3px;
-}
-
-.wd-post-white {
-    color: white;
     font-size: 13px;
     display: inline;
     margin: 3px;
