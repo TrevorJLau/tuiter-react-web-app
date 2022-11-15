@@ -17,7 +17,7 @@ const updateTuit = (req, res) => {
     const tuitIdToUpdate = req.params['tid'];
     const updates = req.body;
     const tuitIndex = tuits.findIndex(
-        (t) => t._id === tuitIdToUpdate)
+        (t) => t._id.toString() === tuitIdToUpdate)
     tuits[tuitIndex] =
         {...tuits[tuitIndex], ...updates};
     res.sendStatus(200);
