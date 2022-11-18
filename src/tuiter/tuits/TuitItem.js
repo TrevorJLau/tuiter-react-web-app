@@ -27,7 +27,7 @@ const TuitItem = (
                        onClick={() => deleteTuitHandler(tuit._id)}></i>
 
 
-                    <div> {tuit.userName} - {tuit.handle} - {tuit.time}</div>
+                    <div> {tuit.username} - {tuit.handle} - {tuit.time}</div>
                     <div>{tuit.tuit}</div>
 
                     <TuitStats key={tuit._id} tuit={tuit}/>
